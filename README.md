@@ -1,4 +1,4 @@
-# Hanjulsi (A Line of Poetry)
+# ✍️Hanjulsi - 한줄시 (A Line of Poetry)
 
 <img width="448" alt="썸네일 (1)" src="https://github.com/purang2/A_line_of_poetry/assets/46081500/eb6d75ce-84b4-464d-bd58-fc240f44a52b">
 
