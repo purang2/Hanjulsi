@@ -5,6 +5,8 @@
 
 **데모 링크(Demo)** : [**「✍️Hanjulsi ㅡ Link」**](https://eunchan789.bubbleapps.io/version-test)
 
+**문의 및 토론**: [**「모두의 노코드 쇼케이스- [Bubble]✍️한줄시: 한 줄 시 공유를 위한 소셜 미디어 플랫폼」**](https://everynocode.org/content/bubble%E2%9C%8D%EF%B8%8F%ED%95%9C%EC%A4%84%EC%8B%9C-%ED%95%9C-%EC%A4%84-%EC%8B%9C-%EA%B3%B5%EC%9C%A0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%86%8C%EC%85%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC)
+
 ![demo_v0](https://github.com/purang2/A_line_of_poetry/assets/46081500/fcf59e1e-4be8-4f2a-a381-d42052c16153)
 
 
