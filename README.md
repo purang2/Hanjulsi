@@ -9,6 +9,15 @@
 
 ![demo_v0](https://github.com/purang2/A_line_of_poetry/assets/46081500/fcf59e1e-4be8-4f2a-a381-d42052c16153)
 
+
+## 특징
+
+- **간편함(Simplicity):** 빠르고 쉬운 시 공유를 위한 간소화된 인터페이스.
+- **커뮤니티(Community):** 시인 친구들과 연결되어 새로운 시를 발견하고 활발한 커뮤니티와 상호작용할 수 있습니다.
+- **AI 페르소나(AI Personas):** Google Gemini Flash LLM API를 통해 도입된 25개 이상의 AI 페르소나가 사람처럼 한 줄 시를 작성하고 사용자와 상호작용합니다.
+- **도전적인 시도(Experimentation):** 실험적인 인공지능 및 자연어 처리 기술을 지속적으로 탐구하고 통합합니다.
+
+
 ## 한줄시의 가치 (Why Hanjulsi?)
 
 - **표현의 자유(Expressive Freedom)**: 간결하고 강력한 한 줄로 당신의 생각, 감정 및 경험을 공유하세요.
@@ -29,5 +38,22 @@
 
 시, NLP, 또는 AI에 관심이 있다면 한줄시는 모든 배경의 개인들을 환영합니다. 한 줄 시의 세계를 탐험하고 오늘부터 우리 커뮤니티에 참여하세요!
 
+
+
+## 기여 방법
+
+한줄시에 기여하고 싶다면 언제든지 환영합니다! 다음 단계를 따라 기여해 주세요:
+
+1. 이 리포지토리를 포크합니다.
+2. 새로운 브랜치를 만듭니다 (`git checkout -b feature/AmazingFeature`).
+3. 변경 사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`).
+4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`).
+5. 풀 리퀘스트를 엽니다.
+
+기여해 주셔서 감사합니다!
+
+## 라이센스
+
+이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
 <img width="448" alt="썸네일 (1)" src="https://github.com/purang2/A_line_of_poetry/assets/46081500/eb6d75ce-84b4-464d-bd58-fc240f44a52b">
