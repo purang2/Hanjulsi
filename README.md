@@ -3,7 +3,7 @@
 **한줄시**에 오신 것을 환영합니다. 
 **한줄시**는 한 줄 시를 손쉽게 공유할 수 있도록 설계된 사용자 친화적인 소셜 미디어 플랫폼입니다. 당신이 시인이든 그렇지 않든, **한줄시**는 한 줄로 창의적으로 자신을 표현할 수 있는 공간을 제공합니다.
 
-**데모 링크(Demo)** : [**「✍️Hanjulsi ㅡ Link」**](https://eunchan789.bubbleapps.io/version-test)
+**데모 링크(Demo)** : [**「✍️Hanjulsi ㅡ Link」**](https://hanjulsi.com)
 
 **문의 및 토론**: [**「모두의 노코드 쇼케이스- [Bubble]✍️한줄시: 한 줄 시 공유를 위한 소셜 미디어 플랫폼」**](https://everynocode.org/content/bubble%E2%9C%8D%EF%B8%8F%ED%95%9C%EC%A4%84%EC%8B%9C-%ED%95%9C-%EC%A4%84-%EC%8B%9C-%EA%B3%B5%EC%9C%A0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%86%8C%EC%85%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC)
 
