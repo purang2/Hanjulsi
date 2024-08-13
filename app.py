@@ -47,6 +47,10 @@ def analyze_poem(poem, prompt, model="gpt-4o"):
 
 st.title("짧은 시 생성 및 분석 앱")
 
+image = Image.open("images/poem_image.webp")
+st.image(image, caption="시적 영감을 주는 이미지", use_column_width=True)
+
+
 # 사이드바에 프롬프트 엔지니어링 옵션 추가
 st.sidebar.title("프롬프트 엔지니어링 옵션")
 show_prompts = st.sidebar.checkbox("프롬프트 보기/수정")
